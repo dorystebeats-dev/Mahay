@@ -1,0 +1,6 @@
+{
+  "name": "MAHAY RAHA",
+  "description": "Application moderne de traduction multilingue et de dictionnaire hors ligne (malagasy, français, anglais et packs linguistiques locaux) — Traduire, apprendre et comprendre.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

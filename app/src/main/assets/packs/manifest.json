@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "packs": [
+    {
+      "code": "mg",
+      "nameFr": "Malagasy",
+      "nativeName": "Malagasy",
+      "regionBadge": "MG",
+      "version": "1.2.0",
+      "description": "Lexique malagasy officiel, salutations, verbes courants, expressions et exemples bilingues.",
+      "speechLocaleTag": "mg-MG",
+      "assetFileName": "packs/mg.json"
+    },
+    {
+      "code": "fr",
+      "nameFr": "Français",
+      "nativeName": "Français",
+      "regionBadge": "FR",
+      "version": "1.2.0",
+      "description": "Dictionnaire français complet, locutions du quotidien, définitions et exemples.",
+      "speechLocaleTag": "fr-FR",
+      "assetFileName": "packs/fr.json"
+    },
+    {
+      "code": "en",
+      "nameFr": "Anglais",
+      "nativeName": "English",
+      "regionBadge": "EN",
+      "version": "1.2.0",
+      "description": "Pack anglais international avec vocabulaire essentiel, phrases de voyage et définitions.",
+      "speechLocaleTag": "en-US",
+      "assetFileName": "packs/en.json"
+    },
+    {
+      "code": "es",
+      "nameFr": "Espagnol",
+      "nativeName": "Español",
+      "regionBadge": "ES",
+      "version": "1.1.0",
+      "description": "Pack espagnol hors ligne pour la conversation, le voyage et l'apprentissage.",
+      "speechLocaleTag": "es-ES",
+      "assetFileName": "packs/es.json"
+    },
+    {
+      "code": "de",
+      "nameFr": "Allemand",
+      "nativeName": "Deutsch",
+      "regionBadge": "DE",
+      "version": "1.1.0",
+      "description": "Pack allemand hors ligne avec lexique de base et phrases d'usage courant.",
+      "speechLocaleTag": "de-DE",
+      "assetFileName": "packs/de.json"
+    },
+    {
+      "code": "sw",
+      "nameFr": "Swahili",
+      "nativeName": "Kiswahili",
+      "regionBadge": "SW",
+      "version": "1.0.0",
+      "description": "Pack swahili d'Afrique de l'Est pour échanger et découvrir une nouvelle langue.",
+      "speechLocaleTag": "sw-KE",
+      "assetFileName": "packs/sw.json"
+    },
+    {
+      "code": "it",
+      "nameFr": "Italien",
+      "nativeName": "Italiano",
+      "regionBadge": "IT",
+      "version": "1.0.0",
+      "description": "Pack italien hors ligne avec expressions pratiques et vocabulaire culturel.",
+      "speechLocaleTag": "it-IT",
+      "assetFileName": "packs/it.json"
+    },
+    {
+      "code": "pt",
+      "nameFr": "Portugais",
+      "nativeName": "Português",
+      "regionBadge": "PT",
+      "version": "1.0.0",
+      "description": "Pack portugais hors ligne pour communiquer et enrichir votre dictionnaire.",
+      "speechLocaleTag": "pt-PT",
+      "assetFileName": "packs/pt.json"
+    }
+  ]
+}
